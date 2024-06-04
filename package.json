@@ -1,7 +1,7 @@
 {
-  "name": "crosslink-plotly.js",
+  "name": "@figlinq/crosslink-plotly",
   "version": "0.0.1",
-  "description": "Links a set of `plotly.js` plots via data mapping and crossfiltering",
+  "description": "Links a set of `plotly.js` plots via data mapping and crossfiltering. A copy of Plotly's vanished repo",
   "repository": "https://github.com/plotly/crosslink-plotly.js",
   "license": "MIT",
   "main": "lib/index.js",
